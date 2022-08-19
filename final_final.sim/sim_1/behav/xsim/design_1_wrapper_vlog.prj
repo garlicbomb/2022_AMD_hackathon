@@ -1,0 +1,85 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../DAC_converter.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../DAC_converter.srcs/sources_1/bd/design_1/ipshared/6b56/hdl" --include "D:/Xilinx/Vivado/2020.1/data/xilinx_vip/include" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/Week10_Experiement/myPrescaler.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/Week10_Experiement/myI2STx_v1_0.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/Week10_Experiement/mySPIRxTx_v1_0.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/async_reset.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/display_clocks.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/display_timings.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/dvi_generator.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/gfx_inst.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/serializer_10to1.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/test_card_simple.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/tmds_encoder_dvi.v" \
+
+sv xil_defaultlib  --include "../../../../DAC_converter.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../DAC_converter.srcs/sources_1/bd/design_1/ipshared/6b56/hdl" --include "D:/Xilinx/Vivado/2020.1/data/xilinx_vip/include" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/sprite_compositor.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_2.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_3.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_4.v" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_5.v" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_6.v" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_clear.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_clear2.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_clear3.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_e2.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_e3.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_e4.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_e5.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_e_projectile.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_life0.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_life1.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_life2.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score1.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score2.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score3.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score4.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score5.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_10.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_11.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_12.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_13.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_14.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_15.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_16.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_17.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_18.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_19.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_6.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_7.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_8.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_score_9.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e1.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e2.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e3.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e4.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e5.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e6.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e7.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e8.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e9.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e1.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e2.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e3.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e4.sv" \
+"../../../../DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e5.sv" \
+
+verilog xil_defaultlib  --include "../../../../DAC_converter.srcs/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../DAC_converter.srcs/sources_1/bd/design_1/ipshared/6b56/hdl" --include "D:/Xilinx/Vivado/2020.1/data/xilinx_vip/include" \
+"../../../../DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/HDMI_TOP.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_myPrescaler_0_0/sim/design_1_myPrescaler_0_0.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_myI2STx_v1_0_0_0/sim/design_1_myI2STx_v1_0_0_0.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_mySPIRxTx_v1_0_0_0/sim/design_1_mySPIRxTx_v1_0_0_0.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_HDMI_TOP_0_0/sim/design_1_HDMI_TOP_0_0.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_auto_pc_2/sim/design_1_auto_pc_2.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" \
+"../../../../DAC_converter.ip_user_files/bd/design_1/sim/design_1.v" \
+"../../../../DAC_converter.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

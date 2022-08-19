@@ -1,0 +1,8 @@
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|       Launch Clock       |      Capture Clock       |                                                 Pin                                                      |
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+
+|               clk_1x_pre |               clk_1x_pre |                                  zynq_module/design_1_i/HDMI_TOP_0/inst/HDMI_out/encode_ch1/bias_reg[2]/D|
+|               clk_1x_pre |               clk_1x_pre |                                  zynq_module/design_1_i/HDMI_TOP_0/inst/HDMI_out/encode_ch2/bias_reg[1]/D|
+|               clk_1x_pre |               clk_1x_pre |                                  zynq_module/design_1_i/HDMI_TOP_0/inst/HDMI_out/encode_ch0/bias_reg[1]/D|
+|               clk_1x_pre |               clk_1x_pre |                                  zynq_module/design_1_i/HDMI_TOP_0/inst/HDMI_out/encode_ch1/bias_reg[1]/D|
++--------------------------+--------------------------+----------------------------------------------------------------------------------------------------------+

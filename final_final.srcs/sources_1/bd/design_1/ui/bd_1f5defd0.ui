@@ -1,0 +1,120 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.721005",
+   "Default View_TopLeft":"-129,-65",
+   "ExpandedHierarchyInLayout":"",
+   "commentid":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 5 -x 1550 -y 680 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 5 -x 1550 -y 710 -defaultsOSRD
+preplace port M_AHB_0 -pg 1 -lvl 5 -x 1550 -y 990 -defaultsOSRD
+preplace port bclk -pg 1 -lvl 5 -x 1550 -y 1310 -defaultsOSRD
+preplace port ss -pg 1 -lvl 5 -x 1550 -y 1200 -defaultsOSRD
+preplace port sclk -pg 1 -lvl 5 -x 1550 -y 1140 -defaultsOSRD
+preplace port sdata -pg 1 -lvl 5 -x 1550 -y 1370 -defaultsOSRD
+preplace port mosi -pg 1 -lvl 5 -x 1550 -y 1170 -defaultsOSRD
+preplace port lrclk -pg 1 -lvl 5 -x 1550 -y 1340 -defaultsOSRD
+preplace port mclk -pg 1 -lvl 5 -x 1550 -y 1430 -defaultsOSRD
+preplace port miso -pg 1 -lvl 0 -x 0 -y 1310 -defaultsOSRD
+preplace port btn1 -pg 1 -lvl 0 -x 0 -y 310 -defaultsOSRD
+preplace port btn2 -pg 1 -lvl 0 -x 0 -y 340 -defaultsOSRD
+preplace port btn3 -pg 1 -lvl 0 -x 0 -y 370 -defaultsOSRD
+preplace port hdmi_tx_hpd -pg 1 -lvl 0 -x 0 -y 430 -defaultsOSRD
+preplace port hdmi_tx_cec -pg 1 -lvl 5 -x 1550 -y 20 -defaultsOSRD
+preplace port hdmi_tx_rscl -pg 1 -lvl 5 -x 1550 -y 50 -defaultsOSRD
+preplace port hdmi_tx_rsda -pg 1 -lvl 5 -x 1550 -y 80 -defaultsOSRD
+preplace port hdmi_tx_clk_n -pg 1 -lvl 5 -x 1550 -y 110 -defaultsOSRD
+preplace port hdmi_tx_clk_p -pg 1 -lvl 5 -x 1550 -y 140 -defaultsOSRD
+preplace port clk_lock -pg 1 -lvl 5 -x 1550 -y 230 -defaultsOSRD
+preplace port de -pg 1 -lvl 5 -x 1550 -y 260 -defaultsOSRD
+preplace port led -pg 1 -lvl 5 -x 1550 -y 290 -defaultsOSRD
+preplace port RST_BTN -pg 1 -lvl 0 -x 0 -y 280 -defaultsOSRD
+preplace port enemy_shoot_e1 -pg 1 -lvl 5 -x 1550 -y 350 -defaultsOSRD
+preplace port enemy_shoot_e2 -pg 1 -lvl 5 -x 1550 -y 380 -defaultsOSRD
+preplace port enemy_shoot_e3 -pg 1 -lvl 5 -x 1550 -y 410 -defaultsOSRD
+preplace port enemy_shoot_e4 -pg 1 -lvl 5 -x 1550 -y 440 -defaultsOSRD
+preplace port enemy_shoot_e5 -pg 1 -lvl 5 -x 1550 -y 470 -defaultsOSRD
+preplace port enemy_shoot_stage4_e1 -pg 1 -lvl 5 -x 1550 -y 500 -defaultsOSRD
+preplace port enemy_shoot_stage4_e2 -pg 1 -lvl 5 -x 1550 -y 530 -defaultsOSRD
+preplace port enemy_shoot_stage4_e3 -pg 1 -lvl 5 -x 1550 -y 560 -defaultsOSRD
+preplace port item_1_get -pg 1 -lvl 5 -x 1550 -y 620 -defaultsOSRD
+preplace port item_2_get -pg 1 -lvl 5 -x 1550 -y 650 -defaultsOSRD
+preplace port HCLK -pg 1 -lvl 5 -x 1550 -y 780 -defaultsOSRD
+preplace portBus hdmi_tx_n -pg 1 -lvl 5 -x 1550 -y 170 -defaultsOSRD
+preplace portBus hdmi_tx_p -pg 1 -lvl 5 -x 1550 -y 200 -defaultsOSRD
+preplace portBus sw -pg 1 -lvl 0 -x 0 -y 400 -defaultsOSRD
+preplace portBus total_score -pg 1 -lvl 5 -x 1550 -y 320 -defaultsOSRD
+preplace portBus life -pg 1 -lvl 5 -x 1550 -y 590 -defaultsOSRD
+preplace inst processing_system7_0 -pg 1 -lvl 4 -x 1250 -y 740 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 1 -x 200 -y 1070 -defaultsOSRD
+preplace inst axi_interconnect_0 -pg 1 -lvl 2 -x 530 -y 1150 -defaultsOSRD
+preplace inst myPrescaler_0 -pg 1 -lvl 3 -x 870 -y 1450 -defaultsOSRD
+preplace inst axi_fifo_mm_s_0 -pg 1 -lvl 3 -x 870 -y 1330 -defaultsOSRD
+preplace inst axi_fifo_mm_s_1 -pg 1 -lvl 3 -x 870 -y 1160 -defaultsOSRD
+preplace inst myI2STx_v1_0_0 -pg 1 -lvl 4 -x 1250 -y 1340 -defaultsOSRD
+preplace inst mySPIRxTx_v1_0_0 -pg 1 -lvl 4 -x 1250 -y 1160 -defaultsOSRD
+preplace inst smartconnect_0 -pg 1 -lvl 3 -x 870 -y 970 -defaultsOSRD
+preplace inst axi_ahblite_bridge_0 -pg 1 -lvl 4 -x 1250 -y 990 -defaultsOSRD
+preplace inst HDMI_TOP_0 -pg 1 -lvl 4 -x 1250 -y 340 -defaultsOSRD
+preplace netloc myI2STx_v1_0_0_bclk 1 4 1 1490J 1310n
+preplace netloc mySPIRxTx_v1_0_0_ss 1 4 1 1480J 1190n
+preplace netloc mySPIRxTx_v1_0_0_sclk 1 4 1 1490J 1140n
+preplace netloc myI2STx_v1_0_0_sdata 1 4 1 1480J 1360n
+preplace netloc mySPIRxTx_v1_0_0_mosi 1 4 1 NJ 1170
+preplace netloc myI2STx_v1_0_0_lrclk 1 4 1 NJ 1340
+preplace netloc myPrescaler_0_prescale 1 3 2 1060 1430 NJ
+preplace netloc miso_0_1 1 0 4 NJ 1310 NJ 1310 670J 1250 1030J
+preplace netloc processing_system7_0_FCLK_CLK0 1 0 5 30 970 380 970 700 1060 1040 900 1520
+preplace netloc processing_system7_0_FCLK_RESET0_N 1 0 5 20 850 NJ 850 NJ 850 1030J 880 1440
+preplace netloc proc_sys_reset_0_interconnect_aresetn 1 1 1 N 1090
+preplace netloc proc_sys_reset_0_peripheral_aresetn 1 1 3 370 990 690 1050 1050
+preplace netloc btn1_1 1 0 4 NJ 310 NJ 310 NJ 310 1030J
+preplace netloc btn2_1 1 0 4 NJ 340 NJ 340 NJ 340 NJ
+preplace netloc btn3_1 1 0 4 20J 360 NJ 360 NJ 360 NJ
+preplace netloc hdmi_tx_hpd_1 1 0 4 30J 400 NJ 400 NJ 400 NJ
+preplace netloc Net 1 4 1 1440J 20n
+preplace netloc Net1 1 4 1 1450J 50n
+preplace netloc Net2 1 4 1 1460J 80n
+preplace netloc HDMI_TOP_0_hdmi_tx_clk_n 1 4 1 1470J 110n
+preplace netloc HDMI_TOP_0_hdmi_tx_clk_p 1 4 1 1480J 140n
+preplace netloc HDMI_TOP_0_hdmi_tx_n 1 4 1 1490J 170n
+preplace netloc HDMI_TOP_0_hdmi_tx_p 1 4 1 1500J 200n
+preplace netloc HDMI_TOP_0_clk_lock 1 4 1 1510J 230n
+preplace netloc HDMI_TOP_0_de 1 4 1 1520J 260n
+preplace netloc HDMI_TOP_0_led 1 4 1 1530J 290n
+preplace netloc RST_BTN_1 1 0 4 NJ 280 NJ 280 NJ 280 1030J
+preplace netloc sw_0_1 1 0 4 20J 380 NJ 380 NJ 380 NJ
+preplace netloc HDMI_TOP_0_total_score 1 4 1 1480J 320n
+preplace netloc HDMI_TOP_0_enemy_shoot_e1 1 4 1 NJ 350
+preplace netloc HDMI_TOP_0_enemy_shoot_e2 1 4 1 1490J 370n
+preplace netloc HDMI_TOP_0_enemy_shoot_e3 1 4 1 1530J 390n
+preplace netloc HDMI_TOP_0_enemy_shoot_e4 1 4 1 1520J 410n
+preplace netloc HDMI_TOP_0_enemy_shoot_e5 1 4 1 1510J 430n
+preplace netloc HDMI_TOP_0_enemy_shoot_stage4_e1 1 4 1 1500J 450n
+preplace netloc HDMI_TOP_0_enemy_shoot_stage4_e2 1 4 1 1490J 470n
+preplace netloc HDMI_TOP_0_enemy_shoot_stage4_e3 1 4 1 1470J 490n
+preplace netloc HDMI_TOP_0_life 1 4 1 1460J 510n
+preplace netloc HDMI_TOP_0_item_1_get 1 4 1 1450J 530n
+preplace netloc HDMI_TOP_0_item_2_get 1 4 1 1440J 550n
+preplace netloc axi_interconnect_0_M00_AXI 1 2 1 N 1130
+preplace netloc processing_system7_0_DDR 1 4 1 NJ 680
+preplace netloc axi_fifo_mm_s_0_AXI_STR_TXD 1 3 1 N 1310
+preplace netloc processing_system7_0_M_AXI_GP0 1 1 4 390 860 NJ 860 NJ 860 1500
+preplace netloc axi_fifo_mm_s_1_AXI_STR_TXD 1 3 1 N 1130
+preplace netloc axi_interconnect_0_M01_AXI 1 2 1 680 1150n
+preplace netloc processing_system7_0_FIXED_IO 1 4 1 1490J 700n
+preplace netloc mySPIRxTx_v1_0_0_m00_axis 1 2 3 710 890 NJ 890 1460
+preplace netloc processing_system7_0_M_AXI_GP1 1 2 3 700 870 NJ 870 1470
+preplace netloc smartconnect_0_M00_AXI 1 3 1 N 970
+preplace netloc axi_ahblite_bridge_0_M_AHB 1 4 1 NJ 990
+levelinfo -pg 1 0 200 530 870 1250 1550
+pagesize -pg 1 -db -bbox -sgen -130 0 1760 1510
+"
+}
+{
+   "da_axi4_cnt":"3",
+   "da_board_cnt":"1",
+   "da_clkrst_cnt":"6",
+   "da_ps7_cnt":"1"
+}

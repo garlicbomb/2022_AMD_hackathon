@@ -1,0 +1,284 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/Week10_Experiement/myPrescaler.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myPrescaler
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/Week10_Experiement/myI2STx_v1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module myI2STx_v1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/Week10_Experiement/mySPIRxTx_v1_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mySPIRxTx_v1_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/async_reset.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module async_reset
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/display_clocks.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display_clocks
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/display_timings.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display_timings
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/dvi_generator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HDMI_generator
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/gfx_inst.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module gfx
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/serializer_10to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serializer_10to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/test_card_simple.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_card_simple
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/tmds_encoder_dvi.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tmds_encoder_HDMI
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/sprite_compositor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_e1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_3.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/HDMI_week13/HDMI_week13.srcs/sources_1/new/sprite_compositor_5.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_6.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_clear.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_clear
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_clear2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_clear2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_clear3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_clear3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_e2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_e2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_e3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_e3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_e4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_e4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_e5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_e5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_e_projectile.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_e_projectile
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_life0.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_life0
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_life1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_life1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_life2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_life2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_10.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_10
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_11.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_11
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_12.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_12
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_13.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_13
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_14.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_14
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_15.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_15
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_16.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_16
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_17.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_17
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_18.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_18
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_19.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_19
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_score_9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_score_9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e5
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e6.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e6
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e7.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e7
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e8.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e8
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage2_e9.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage2_e9
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage3_e1
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage3_e2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e3.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage3_e3
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e4.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage3_e4
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/new/sprite_compositor_stage3_e5.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sprite_compositor_stage3_e5
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.srcs/sources_1/imports/Xilinx/week 13/source/HDMI_TOP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HDMI_TOP
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_processing_system7_0_0
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'USB0_VBUS_PWRSELECT' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:126]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'USB0_VBUS_PWRFAULT' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:127]
+WARNING: [VRFC 10-3594] non-net port 'USB0_VBUS_PWRFAULT' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:127]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_ARVALID' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:128]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_AWVALID' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:129]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_BREADY' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:130]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_RREADY' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:131]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_WLAST' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:132]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_WVALID' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:133]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_ACLK' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:155]
+WARNING: [VRFC 10-3594] non-net port 'M_AXI_GP0_ACLK' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:155]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_ARREADY' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:156]
+WARNING: [VRFC 10-3594] non-net port 'M_AXI_GP0_ARREADY' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:156]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_AWREADY' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:157]
+WARNING: [VRFC 10-3594] non-net port 'M_AXI_GP0_AWREADY' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:157]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_BVALID' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:158]
+WARNING: [VRFC 10-3594] non-net port 'M_AXI_GP0_BVALID' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:158]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_RLAST' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:159]
+WARNING: [VRFC 10-3594] non-net port 'M_AXI_GP0_RLAST' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:159]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_RVALID' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:160]
+WARNING: [VRFC 10-3594] non-net port 'M_AXI_GP0_RVALID' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:160]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'M_AXI_GP0_WREADY' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:161]
+WARNING: [VRFC 10-3594] non-net port 'M_AXI_GP0_WREADY' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:161]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'FCLK_CLK0' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:167]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'FCLK_RESET0_N' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:168]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_CAS_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:170]
+WARNING: [VRFC 10-3594] non-net port 'DDR_CAS_n' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:170]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_CKE' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:171]
+WARNING: [VRFC 10-3594] non-net port 'DDR_CKE' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:171]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_Clk_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:172]
+WARNING: [VRFC 10-3594] non-net port 'DDR_Clk_n' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:172]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_Clk' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:173]
+WARNING: [VRFC 10-3594] non-net port 'DDR_Clk' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:173]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_CS_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:174]
+WARNING: [VRFC 10-3594] non-net port 'DDR_CS_n' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:174]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_DRSTB' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:175]
+WARNING: [VRFC 10-3594] non-net port 'DDR_DRSTB' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:175]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_ODT' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:176]
+WARNING: [VRFC 10-3594] non-net port 'DDR_ODT' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:176]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_RAS_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:177]
+WARNING: [VRFC 10-3594] non-net port 'DDR_RAS_n' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:177]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_WEB' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:178]
+WARNING: [VRFC 10-3594] non-net port 'DDR_WEB' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:178]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_VRN' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:181]
+WARNING: [VRFC 10-3594] non-net port 'DDR_VRN' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:181]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_VRP' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:182]
+WARNING: [VRFC 10-3594] non-net port 'DDR_VRP' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:182]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'PS_SRSTB' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:187]
+WARNING: [VRFC 10-3594] non-net port 'PS_SRSTB' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:187]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'PS_CLK' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:188]
+WARNING: [VRFC 10-3594] non-net port 'PS_CLK' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:188]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'PS_PORB' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:189]
+WARNING: [VRFC 10-3594] non-net port 'PS_PORB' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_processing_system7_0_0/sim/design_1_processing_system7_0_0.v:189]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_xbar_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_myPrescaler_0_0/sim/design_1_myPrescaler_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_myPrescaler_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_myI2STx_v1_0_0_0/sim/design_1_myI2STx_v1_0_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_myI2STx_v1_0_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_mySPIRxTx_v1_0_0_0/sim/design_1_mySPIRxTx_v1_0_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_mySPIRxTx_v1_0_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_HDMI_TOP_0_0/sim/design_1_HDMI_TOP_0_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_HDMI_TOP_0_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_auto_pc_2/sim/design_1_auto_pc_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_auto_pc_0/sim/design_1_auto_pc_0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_0
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_auto_pc_1/sim/design_1_auto_pc_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1_auto_pc_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module design_1
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_cas_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:61]
+WARNING: [VRFC 10-3594] non-net port 'DDR_cas_n' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:61]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_ck_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:62]
+WARNING: [VRFC 10-3594] non-net port 'DDR_ck_n' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:62]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_ck_p' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:63]
+WARNING: [VRFC 10-3594] non-net port 'DDR_ck_p' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:63]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_cke' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:64]
+WARNING: [VRFC 10-3594] non-net port 'DDR_cke' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:64]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_cs_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:65]
+WARNING: [VRFC 10-3594] non-net port 'DDR_cs_n' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:65]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_odt' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:70]
+WARNING: [VRFC 10-3594] non-net port 'DDR_odt' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:70]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_ras_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:71]
+WARNING: [VRFC 10-3594] non-net port 'DDR_ras_n' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:71]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_reset_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:72]
+WARNING: [VRFC 10-3594] non-net port 'DDR_reset_n' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:72]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'DDR_we_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:73]
+WARNING: [VRFC 10-3594] non-net port 'DDR_we_n' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:73]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'FIXED_IO_ddr_vrn' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:74]
+WARNING: [VRFC 10-3594] non-net port 'FIXED_IO_ddr_vrn' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:74]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'FIXED_IO_ddr_vrp' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:75]
+WARNING: [VRFC 10-3594] non-net port 'FIXED_IO_ddr_vrp' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:75]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'FIXED_IO_ps_clk' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:77]
+WARNING: [VRFC 10-3594] non-net port 'FIXED_IO_ps_clk' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:77]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'FIXED_IO_ps_porb' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:78]
+WARNING: [VRFC 10-3594] non-net port 'FIXED_IO_ps_porb' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:78]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'FIXED_IO_ps_srstb' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:79]
+WARNING: [VRFC 10-3594] non-net port 'FIXED_IO_ps_srstb' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:79]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'RST_BTN' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:80]
+WARNING: [VRFC 10-3594] non-net port 'RST_BTN' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:80]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'bclk' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:81]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'btn1' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:82]
+WARNING: [VRFC 10-3594] non-net port 'btn1' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:82]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'btn2' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:83]
+WARNING: [VRFC 10-3594] non-net port 'btn2' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:83]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'btn3' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:84]
+WARNING: [VRFC 10-3594] non-net port 'btn3' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:84]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'clk_lock' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:85]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'de' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:86]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'hdmi_tx_cec' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:87]
+WARNING: [VRFC 10-3594] non-net port 'hdmi_tx_cec' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:87]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'hdmi_tx_clk_n' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:88]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'hdmi_tx_clk_p' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:89]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'hdmi_tx_hpd' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:90]
+WARNING: [VRFC 10-3594] non-net port 'hdmi_tx_hpd' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:90]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'hdmi_tx_rscl' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:93]
+WARNING: [VRFC 10-3594] non-net port 'hdmi_tx_rscl' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:93]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'hdmi_tx_rsda' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:94]
+WARNING: [VRFC 10-3594] non-net port 'hdmi_tx_rsda' cannot be of mode inout [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:94]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'led' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:95]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'lrclk' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:96]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'mclk' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:97]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'miso' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:98]
+WARNING: [VRFC 10-3594] non-net port 'miso' cannot be of mode input [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:98]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'mosi' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:99]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'sclk' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:100]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'sdata' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:101]
+WARNING: [VRFC 10-1103] net type must be explicitly specified for 'ss' when default_nettype is none [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:102]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'bclk' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:243]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'clk_lock' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:247]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'de' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:248]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'hdmi_tx_clk_n' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:249]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'hdmi_tx_clk_p' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:250]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'led' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:254]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'lrclk' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:255]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'mclk' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:256]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'mosi' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:258]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'sclk' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:259]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'sdata' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:260]
+ERROR: [VRFC 10-3236] concurrent assignment to a non-net 'ss' is not permitted [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:261]
+ERROR: [VRFC 10-2865] module 'design_1' ignored due to previous errors [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:13]
+INFO: [VRFC 10-311] analyzing module design_1_axi_interconnect_0_0
+ERROR: [VRFC 10-2865] module 'design_1_axi_interconnect_0_0' ignored due to previous errors [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:536]
+INFO: [VRFC 10-311] analyzing module m00_couplers_imp_1CA5Z32
+ERROR: [VRFC 10-2865] module 'm00_couplers_imp_1CA5Z32' ignored due to previous errors [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:1543]
+INFO: [VRFC 10-311] analyzing module m01_couplers_imp_I4GRPB
+ERROR: [VRFC 10-2865] module 'm01_couplers_imp_I4GRPB' ignored due to previous errors [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:1843]
+INFO: [VRFC 10-311] analyzing module m02_couplers_imp_1BOGR4T
+ERROR: [VRFC 10-2865] module 'm02_couplers_imp_1BOGR4T' ignored due to previous errors [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:2143]
+INFO: [VRFC 10-311] analyzing module s00_couplers_imp_O7FAN0
+ERROR: [VRFC 10-2865] module 's00_couplers_imp_O7FAN0' ignored due to previous errors [D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/sim/design_1.v:2429]
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_proc_sys_reset_0_0/sim/design_1_proc_sys_reset_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_proc_sys_reset_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_axi_fifo_mm_s_0_0/sim/design_1_axi_fifo_mm_s_0_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_fifo_mm_s_0_0'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Xilinx/DAC_converter/DAC_converter.ip_user_files/bd/design_1/ip/design_1_axi_fifo_mm_s_1_0/sim/design_1_axi_fifo_mm_s_1_0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'design_1_axi_fifo_mm_s_1_0'
